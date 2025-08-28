@@ -4,7 +4,7 @@
         <h1>Guia de descarte correto de lixo na praia: O lixo que volta pro mar, volta pra você</h1>
         <p>Nossas praias são verdadeiros paraísos, mas infelizmente, a quantidade de lixo deixada por quem as frequenta tem crescido muito. Isso não só prejudica o meio ambiente e a vida marinha, mas também pode causar problemas para a nossa saúde.</p>
         <p>A boa notícia é que com pequenas atitudes, podemos fazer uma grande diferença. Este guia rápido vai te ensinar a descartar seu lixo de forma consciente e a aproveitar a praia sem deixar rastros.</p>
-        <p style="text-align: center; font-style: italic;">(Imagine aqui uma imagem de uma praia paradisíaca e limpa, com um sol brilhante e ondas suaves)</p>
+        <img src="images/praia_limpa.png" alt="Praia Limpa">
         <br>
         <h2>1. O que acontece com o lixo que você deixa na areia?</h2>
         <p>Acha que é só uma embalagem de salgadinho ou uma tampinha de garrafa? O lixo deixado na areia é levado pelo vento, pela maré alta ou até mesmo pela chuva. Assim, ele acaba indo parar no mar, onde se torna um perigo real:</p>
