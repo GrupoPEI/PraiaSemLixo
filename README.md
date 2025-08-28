@@ -1,20 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guia de Descarte Correto de Lixo na Praia</title>
-    <style>
-        body { font-family: sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 20px; background-color: #f4f4f4; }
-        .container { max-width: 800px; margin: auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        h1, h2, h3 { color: #0056b3; }
-        .header-image { width: 100%; height: auto; margin-bottom: 20px; border-radius: 8px; }
-        .section-image { width: 100%; max-width: 600px; height: auto; display: block; margin: 20px auto; border-radius: 8px; }
-        ul { list-style: none; padding: 0; }
-        ul li:before { content: "• "; color: #007bff; font-weight: bold; display: inline-block; width: 1em; margin-left: -1em; }
-        .call-to-action { text-align: center; margin-top: 30px; padding: 20px; background-color: #e6f2ff; border-radius: 8px; border-left: 5px solid #007bff; }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>Guia de descarte correto de lixo na praia: O lixo que volta pro mar, volta pra você</h1>
